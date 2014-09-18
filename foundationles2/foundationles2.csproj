@@ -59,8 +59,11 @@
   <ItemGroup>
     <Content Include="css\foundation.css" />
     <Content Include="css\foundation.min.css" />
+    <Content Include="css\main.css" />
     <Content Include="css\normalize.css" />
     <Content Include="css\reset.css" />
+    <Content Include="greek.html" />
+    <Content Include="greek3.html" />
     <Content Include="home.html" />
     <Content Include="js\foundation.min.js" />
     <Content Include="js\foundation\foundation.abide.js" />
